@@ -5,10 +5,10 @@
 </div>
 <br>
 <p align="center">
-  <a href="https://dev.to/pacmankabh">
+  <a href="https://dev.to/pacmankabh" target="_blank">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev" width="25">
   </a>
-  <a href="https://www.facebook.com/pacmankabh/">
+  <a href="https://www.facebook.com/pacmankabh/" target="_blank">
     <img src="https://i.postimg.cc/GtYyGWrY/f-logo-RGB-Blue-72.png" alt="facebook" width="30">
   </a>
 </p>
